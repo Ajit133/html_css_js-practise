@@ -5,3 +5,11 @@ if(false){
 }
 
 console.log("Out of Statement!")
+
+var age = prompt("Enter the Age: ")
+
+if ( age >= 70 ){
+    console.log("Old")
+}else{
+    console.log("Young!!")
+}
